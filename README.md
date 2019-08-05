@@ -2,10 +2,13 @@
 A python program which will count the number of times the user blink's his eyes.(Video will be real time captured through the webcam) 
 
 REQUIREMENTS:-
+
 Language:-
+
 Python
 
-Libraries
+Libraries:-
+
 OpenCV 
 scikit-image
 dlib
