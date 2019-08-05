@@ -17,4 +17,4 @@ imutils
 
 
 
-![Demo](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjNo8H3j-vjAhVN63MBHRzRB0IQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pyimagesearch.com%2F2017%2F04%2F24%2Feye-blink-detection-opencv-python-dlib%2F&psig=AOvVaw3gPsfKibWqrxK3L6-NUq6y&ust=1565073655790777)
+![Demo](https://www.pyimagesearch.com/wp-content/uploads/2017/04/blink_detection_animation.gif)
