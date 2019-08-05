@@ -17,5 +17,4 @@ imutils
 
 
 
-![Demo]
-(https://www.pyimagesearch.com/wp-content/uploads/2017/04/blink_detection_animation.gif)
+![Demo](https://www.pyimagesearch.com/wp-content/uploads/2017/04/blink_detection_animation.gif)
