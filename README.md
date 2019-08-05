@@ -15,6 +15,6 @@ imutils
 
 ![stack Overflow](https://lh5.googleusercontent.com/NEdpVPSIHlb6vKjJ86d3Q_spX0MrYB33GeMvdn3J3k4B4kr87Jpy7YBw4shn1JfwpXEOfNzjIhEHpsDh-dndx2j-riFGiDgbqk7diPEGl5mA__sgDKUuczbJd5tCUKSALwIJ6zp3)
 
+(*Please download the facial-landmarks/face_landmarks.dat from the internet)
 
-
-![Demo](blink_detection_animation.gif)
+Thank you..!
