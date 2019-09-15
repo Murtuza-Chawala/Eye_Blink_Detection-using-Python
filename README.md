@@ -18,6 +18,9 @@ imutils
 
 ![stack Overflow](https://lh5.googleusercontent.com/NEdpVPSIHlb6vKjJ86d3Q_spX0MrYB33GeMvdn3J3k4B4kr87Jpy7YBw4shn1JfwpXEOfNzjIhEHpsDh-dndx2j-riFGiDgbqk7diPEGl5mA__sgDKUuczbJd5tCUKSALwIJ6zp3)
 
+### The blink's detected in real time streams
+![](Screenshot%20from%202019-09-15%2013-40-44.png)
+
 (*Please download the facial-landmarks/face_landmarks.dat from the internet)
 
 Thank you..!
